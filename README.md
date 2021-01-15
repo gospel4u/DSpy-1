@@ -7,7 +7,7 @@
 Open textbook referenced here: 
 https://runestone.academy/runestone/books/published/pythonds3/index.html
 
-## Chapter 1. Introduction
+## Chapter 1. Introduction to Data Structures and Python 
 
 ### 1.1 Objectives
     - 1.5. Why Study Data Structures and Abstract Data Types?
@@ -95,7 +95,7 @@ https://runestone.academy/runestone/books/published/pythonds3/index.html
 ### 5.15. Discussion Questions
 ### 5.17. Programming Exercises
 
-## Chapter 5. Sorting and Searching
+## Chapter 5. Sorting, Hashing and Searching
 
 ### Introduction 
     - 6.1. Objectives
@@ -130,12 +130,6 @@ https://runestone.academy/runestone/books/published/pythonds3/index.html
     - 7.5. Nodes and References
     - 7.6. Parse Tree
     - 7.7. Tree Traversals
-### 7.8. Priority Queues with Binary Heaps
-    - 7.9. Binary Heap Operations
-    - 7.10. Binary Heap Implementation
-    - 7.10.1. The Structure Property
-    - 7.10.2. The Heap Order Property
-    - 7.10.3. Heap Operations
 ### 7.11. Binary Search Trees
     - 7.12. Search Tree Operations
     - 7.13. Search Tree Implementation
@@ -144,6 +138,20 @@ https://runestone.academy/runestone/books/published/pythonds3/index.html
     - 7.16. AVL Tree Performance
     - 7.17. AVL Tree Implementation
     - 7.18. Summary of Map ADT Implementations
+### 7.19. Summary
+### 7.21. Discussion Questions
+### 7.22. Programming Exercises
+
+## Chapter 7. Heap and Priority Queues 
+
+### Introduction
+    Objectives
+    - 7.9. Binary Heap Operations
+    - 7.10. Binary Heap Implementation
+    - 7.10.1. The Structure Property
+    - 7.10.2. The Heap Order Property
+    - 7.10.3. Heap Operations
+    - Heap Sort
 ### 7.19. Summary
 ### 7.21. Discussion Questions
 ### 7.22. Programming Exercises
