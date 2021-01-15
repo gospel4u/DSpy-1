@@ -1,23 +1,23 @@
 # DSpy - Data Structures using Python
 ####
-#### Developing Data Structures using Python
 #### Created by idebtor@gmail.com
-####
+#### Collaborators: 박준혁, 이경준 
+#### 
 
 Open textbook referenced here: 
 https://runestone.academy/runestone/books/published/pythonds3/index.html
 
 ## Chapter 1. Introduction
 
-### 1.5. Why Study Data Structures and Abstract Data Types?
-### 1.6. Why Study Algorithms?
+### 1.1 Objectives
+    - 1.5. Why Study Data Structures and Abstract Data Types?
+    - 1.6. Why Study Algorithms?
 ### 1.7. Review of Basic Python
-    - 1.8. Getting Started with Data
+    -   - 1.8. Getting Started with Data
         - 1.8.1. Built-in Atomic Data Types
         - 1.8.2. Built-in Collection Data Types
     - 1.11. Exception Handling
     - 1.12. Defining Functions
-
 ### 1.13. Object-Oriented Programming in Python: Defining Classes
     - 1.13.1. A Fraction Class
     - 1.13.2. Inheritance: Logic Gates and Circuits
@@ -30,8 +30,9 @@ https://runestone.academy/runestone/books/published/pythonds3/index.html
 
 ## Chapter 2. Performance Analysis
 
-### 3.1. Objectives  
-### 3.2. What Is Algorithm Analysis?
+### Introduction 
+    - 3.1. Objectives  
+    - 3.2. What Is Algorithm Analysis?
     - 3.3. Big-O Notation
 ### 3.4. An Anagram Detection Example
     - 3.4.1. Solution 1: Checking Off
@@ -47,8 +48,9 @@ https://runestone.academy/runestone/books/published/pythonds3/index.html
 
 ## Chapter 3. Linear Data Structures
 
-### 4.1. Objectives
-### 4.2. What Are Linear Structures?
+### Introduction 
+    - 4.1. Objectives
+    - 4.2. What Are Linear Structures?
 ### 4.3. What is a Stack?
     - 4.4. The Stack Abstract Data Type
     - 4.5. Implementing a Stack in Python
@@ -77,10 +79,11 @@ https://runestone.academy/runestone/books/published/pythonds3/index.html
 
 ## Chapter 4. Recursion
 
-### 5.1. Objectives
-### 5.2. What Is Recursion?
+### Introduction 
+    - 5.1. Objectives
+    - 5.2. What Is Recursion?
     - 5.3. Calculating the Sum of a List of Numbers
-### 5.4. The Three Laws of Recursion
+    - 5.4. The Three Laws of Recursion
 ### 5.5. Converting an Integer to a String in Any Base
 ### 5.6. Stack Frames: Implementing Recursion
 ### 5.7. Introduction: Visualizing Recursion
@@ -93,7 +96,9 @@ https://runestone.academy/runestone/books/published/pythonds3/index.html
 ### 5.17. Programming Exercises
 
 ## Chapter 5. Sorting and Searching
-### 6.1. Objectives
+
+### Introduction 
+    - 6.1. Objectives
 ### 6.2. Searching
     - 6.3. The Sequential Search
         - 6.3.1. Analysis of Sequential Search
@@ -117,8 +122,8 @@ https://runestone.academy/runestone/books/published/pythonds3/index.html
 
 ## Chapter 6. Trees and Tree Algorithms
 
-### 7.1. Objectives
-### Trees 
+### Introduction 
+    - 7.1. Objectives 
     - 7.2. Examples of Trees
     - 7.3. Vocabulary and Definitions
     - 7.4. List of Lists Representation
@@ -135,7 +140,6 @@ https://runestone.academy/runestone/books/published/pythonds3/index.html
     - 7.12. Search Tree Operations
     - 7.13. Search Tree Implementation
     - 7.14. Search Tree Analysis
-
 ### 7.15. Balanced Binary Search Trees
     - 7.16. AVL Tree Performance
     - 7.17. AVL Tree Implementation
@@ -145,6 +149,29 @@ https://runestone.academy/runestone/books/published/pythonds3/index.html
 ### 7.22. Programming Exercises
 
 ## Chapter 8. Graph and Graph Algorithms
+
+### Introduction 
+    - 8.1. Objectives
+    - 8.2. Vocabulary and Definitions
+    - 8.3. The Graph Abstract Data Type
+    - 8.4. An Adjacency Matrix 
+    - 8.5. An Adjacency List
+    - 8.6. Implementation
+### 8.7. The Word Ladder Problem
+    - 8.8. Building the Word Ladder Graph
+### 8.9. Implementing Breadth First Search
+    - 8.10. Breadth First Search Analysis
+### 8.15. General Depth First Search
+    - 8.16. Depth First Search Analysis
+### 8.17. Topological Sorting
+### 8.18. Strongly Connected Components
+### 8.19. Shortest Path Problems
+    - 8.20. Dijkstra’s Algorithm
+    - 8.21. Analysis of Dijkstra’s Algorithm
+### 8.22. Prim’s Spanning Tree Algorithm
+### 8.23. Summary
+### 8.25. Discussion Questions
+### 8.26. Programming Exercises
 
 ## Chapter 9. Advanced Topics
 
