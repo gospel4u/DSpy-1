@@ -1,5 +1,5 @@
-# JoyDSx
+# DSpy - Data Structures using Python
 ####
-#### Developing Joyful Data Structures in Python
+#### Developing Data Structures using Python
 #### Created by idebtor@gmail.com
 ####
